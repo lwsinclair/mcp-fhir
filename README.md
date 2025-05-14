@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/flexpa-mcp-fhir-badge.png)](https://mseep.ai/app/flexpa-mcp-fhir)
+
 # @flexpa/mcp-fhir
 
 > [!WARNING]
